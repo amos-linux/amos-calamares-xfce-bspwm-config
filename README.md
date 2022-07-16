@@ -1,2 +1,2 @@
-#AmOs Linux Calamares configuration for xfce/bspwm
+# AMOS Calamares configuration for xfce
 
